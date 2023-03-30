@@ -28,12 +28,12 @@ export default class GestorClub {
     }
 
     buscarXNombre(nombre: string) {
-        let nombreSocio = this.data().find((socio: { nombre: string }) => socio.nombre === nombre);
+        let nombreSocio = this.data().filter((socio: { nombre: string }) => socio.nombre === nombre);
         console.log(nombreSocio);
         return nombreSocio;
     }
     buscarXApellido(apellido: string) {
-        let apellidoSocio = this.data().find((socio: { apellido: string }) => socio.apellido === apellido);
+        let apellidoSocio = this.data().filter((socio: { apellido: string }) => socio.apellido === apellido);
         console.log(apellidoSocio);
         return apellidoSocio;
     }
