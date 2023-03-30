@@ -19,5 +19,4 @@ argentina.agregarSocio(); */
 argentina.buscarXNombre('Valeria');
 argentina.buscarXApellido('Valencia');
 argentina.buscarXId(20344509);
-argentina.buscarXtelefono(2903346843);
 argentina.buscarXDeporte('voley');
