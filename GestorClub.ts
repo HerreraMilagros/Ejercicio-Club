@@ -48,23 +48,6 @@ export default class GestorClub {
         console.log(documentoSocio);
         return documentoSocio;
     }
-    buscarXtelefono(telefono: number) {
-        let telefonoSocio = this.data().find((socio: { telefono: number }) => socio.telefono === telefono);
-        console.log(telefonoSocio);
-        return telefonoSocio;
-    }
 
-    quitarSocio(documento: number) {
-        let ww = this.data();
-        let socio = ww.findIndex((socios: { documento: number }) => socios.documento === documento);
-        if (socio >= 0) {
-            ww.splice(socio, 1);
-            console.log(`El socio ${documento} se dio de baja`);
-            fs.writeFileSync("./socios.json", JSON.stringify(ww));
-            console.log(this.data());
-        } else {
-            console.log(`El socio ${documento} no pudo darse de baja porque no se encontro`);
-        }
-    }
 
 }
