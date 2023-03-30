@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Maria",
+    "apellido": "Perez",
+    "fechaNacimiento": "31/12/2000",
+    "documento": 42885045,
+    "telefono": 1224593549,
+    "miembroDesde": "29/3/2023",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Quinteros",
+    "fechaNacimiento": "1/2/1990",
+    "documento": 30345345,
+    "telefono": 2234546743,
+    "miembroDesde": "29/3/2023",
+    "deporte": "gym"
+  },
+  {
+    "nombre": "Lorenzo",
+    "apellido": "Delmar",
+    "fechaNacimiento": "23/5/1995",
+    "documento": 36123543,
+    "telefono": 2209456756,
+    "miembroDesde": "29/3/2023",
+    "deporte": "natacion"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Schietti",
+    "fechaNacimiento": "6/12/1987",
+    "documento": 28234596,
+    "telefono": 2903346843,
+    "miembroDesde": "29/3/2023",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "Dana",
+    "apellido": "Cardenal",
+    "fechaNacimiento": "7/7/1997",
+    "documento": 40549643,
+    "telefono": 3459985358,
+    "miembroDesde": "29/3/2023",
+    "deporte": "voley"
+  },
+  {
+    "nombre": "Cecil",
+    "apellido": "Valencia",
+    "fechaNacimiento": "29/1/1994",
+    "documento": 34343433,
+    "telefono": 6663441023,
+    "miembroDesde": "29/3/2023",
+    "deporte": "zumba"
+  },
+  {
+    "nombre": "Daniela",
+    "apellido": "Lucero",
+    "fechaNacimiento": "18/6/1998",
+    "documento": 41674804,
+    "telefono": 41604060,
+    "miembroDesde": "29/3/2023",
+    "deporte": "voley"
+  },
+  {
+    "nombre": "Horacio",
+    "apellido": "Caine",
+    "fechaNacimiento": "4/10/1968",
+    "documento": 20344509,
+    "telefono": 9110345966,
+    "miembroDesde": "29/3/2023",
+    "deporte": "zumba"
+  },
+  {
+    "nombre": "Valeria",
+    "apellido": "Garay",
+    "fechaNacimiento": "21/11/1999",
+    "documento": 41586943,
+    "telefono": 2045674890,
+    "miembroDesde": "29/3/2023",
+    "deporte": "gym"
+  },
+  {
+    "nombre": "Jesus",
+    "apellido": "Ramirez",
+    "fechaNacimiento": "29/2/1992",
+    "documento": 30494567,
+    "telefono": 4444239459,
+    "miembroDesde": "29/3/2023",
+    "deporte": "basket"
+  }
+]
